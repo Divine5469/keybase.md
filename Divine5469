@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am divine5469 on github.
+  * I am divine5469 (https://keybase.io/divine5469) on keybase.
+  * I have a public key ASDS35mwAh_h6v9u9a_EsGwzLeD54MI7AEJ5Cm7uH80wcAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d2df99b0021fe1eaff6ef5afc4b06c332de0f9e0c23b0042790a6eee1fcd30700a",
+      "host": "keybase.io",
+      "kid": "0120d2df99b0021fe1eaff6ef5afc4b06c332de0f9e0c23b0042790a6eee1fcd30700a",
+      "uid": "5960b6e10b1a7cb9745999ecab20ae19",
+      "username": "divine5469"
+    },
+    "merkle_root": {
+      "ctime": 1574406568,
+      "hash": "62aca888f5d31263bd7219deda0f35bf5d54b8db27ac86cd4e36ffd83e5dbb3b56bb96438d3b49a9d6459655fbfda8235d6784eaaf1179c909e9b06bb48b325b",
+      "hash_meta": "f1dcd63994e26b59f32223be47755c0ad0b1329e9d581c00c6c9c6c70bd23567",
+      "seqno": 10484402
+    },
+    "service": {
+      "entropy": "eJN09KuVJ08thwQz3LYL+4f/",
+      "name": "github",
+      "username": "divine5469"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574406475,
+  "expire_in": 504576000,
+  "prev": "db3f8022b974cc8bee4a1e3c444c4009cc2d7b65ecbd20e90ed084b49ef7ef08",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDS35mwAh_h6v9u9a_EsGwzLeD54MI7AEJ5Cm7uH80wcAo](https://keybase.io/divine5469), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0t+ZsAIf4er/bvWvxLBsMy3g+eDCOwBCeQpu7h/NMHAKp3BheWxvYWTESpcCDsQg2z+AIrl0zIvuSh48RExACcwte2XsvSDpDtCEtJ737wjEINoSkvIKsfuJmBHxnorSKVoVYp/bI7IWoMDQrM2rdAuAAgHCo3NpZ8RASVDJRdX4e9oLZYAmngcqSC/Qob6lyBL7ztXnusitDn24o1+vKerRzfFANN1saU6UfWmpLQ/9rswRajm5QAdsAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMTuhQYIZIuoRqw8/zc3OJlVIbvzGi+Qd2/JttI2BYNRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/divine5469
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id divine5469
+```
